@@ -2,7 +2,7 @@
 
 ## Overview
 UTube is a lightweight YouTube clone that allows users to browse and search through videos fetched from a public YouTube API. This project demonstrates the implementation of a responsive video browsing interface with search functionality, similar to YouTube's homepage.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cd915c2e-ee68-497f-ba38-8d77865931a9)
 
 ## Features
 - **Video Browsing**: Display YouTube videos in a responsive grid layout
